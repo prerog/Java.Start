@@ -3,6 +3,19 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java.Start.iml" filepath="$PROJECT_DIR$/Java.Start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lec1/Lec1.iml" filepath="$PROJECT_DIR$/Lec1/Lec1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lec10/Lec10.iml" filepath="$PROJECT_DIR$/Lec10/Lec10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lec11/Lec11.iml" filepath="$PROJECT_DIR$/Lec11/Lec11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lec12/Lec12.iml" filepath="$PROJECT_DIR$/Lec12/Lec12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lec13/Lec13.iml" filepath="$PROJECT_DIR$/Lec13/Lec13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lec2/Lec2.iml" filepath="$PROJECT_DIR$/Lec2/Lec2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lec3/Lec3.iml" filepath="$PROJECT_DIR$/Lec3/Lec3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lec4/Lec4.iml" filepath="$PROJECT_DIR$/Lec4/Lec4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lec5/Lec5.iml" filepath="$PROJECT_DIR$/Lec5/Lec5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lec6/Lec6.iml" filepath="$PROJECT_DIR$/Lec6/Lec6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lec7/Lec7.iml" filepath="$PROJECT_DIR$/Lec7/Lec7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lec8/Lec8.iml" filepath="$PROJECT_DIR$/Lec8/Lec8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lec9/Lec9.iml" filepath="$PROJECT_DIR$/Lec9/Lec9.iml" />
     </modules>
   </component>
 </project>
